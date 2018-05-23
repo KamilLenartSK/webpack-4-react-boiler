@@ -4,7 +4,7 @@
   "description": "webpack 4 boilerplate for React",
   "main": "index.js",
   "author": "Kamil Lenart",
-  "license": "MIT",
+  "license": "GNP3",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
